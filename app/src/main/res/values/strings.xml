@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">জানা অজানা পৌরাণিক গল্প</string>
+
+    <string name="gorur">কশ্যপ মুনির পুত্র গরুড়</string>
+    <string name="balmiki">বাল্মিকি মুনি</string>
+    <string name="basbad">মহামুনি ব্যাসদেব</string>
+    <string name="eklobbo">একলব্য</string>
+    <string name="upomonu">উপমন্যু</string>
+    <string name="aruni">আরণির কর্তব্যনিষ্ঠা</string>
+    <string name="narod">নারদ ও পর্বত মুনি</string>
+    <string name="durbasa">দূর্বাসার কাহিনী</string>
+    <string name="prohollad">ভক্ত প্রহ্লাদ</string>
+    <string name="dhrubo">ভক্ত ধ্রুব</string>
+    <string name="korno">কর্ণ ও নারায়ণ</string>
+    <string name="vismo">ভীষ্মের পূনর্জন্ম</string>
+    <string name="ohok">বশিষ্ঠ পুত্র ওহক</string>
+    <string name="nondini">নন্দিনি ও বিশ্বামিত্র</string>
+    <string name="ostobosu">অষ্টবসু</string>
+    <string name="porsuram">পরশুরামের কাহিনী</string>
+    <string name="dron">অস্ত্রগুরু দ্রোণাচার্য</string>
+    <string name="sudama">শ্রীকৃষ্ণ ও সুদামা</string>
+</resources>
